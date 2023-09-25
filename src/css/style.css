@@ -65,7 +65,7 @@ body {
 #navigation a:visited.active,
 #navigation a:hover {
     color: #000;
-    background: #fff url('/clone-randomorg/src/graphics/tab_rounded.gif') no-repeat bottom center
+    background: #fff url(/clone-randomorg/src/graphics/tab_rounded.gif) no-repeat bottom center
 }
 
 #homepage-generator {
@@ -92,7 +92,7 @@ h1 {
     position: relative;
     font-size: 1em;
     border-bottom: 1px #9393ff solid;
-    background-image: url('/clone-randomorg/src/graphics/rdo-logo-475x70.png');
+    background-image: url(/clone-randomorg/src/graphics/rdo-logo-475x70.png);
     background-repeat: no-repeat;
     background-position: left top;
     z-index: 777;
