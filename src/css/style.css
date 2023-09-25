@@ -346,7 +346,7 @@ caption {
     margin-left: 60px;
     margin-right: 60px;
     padding: 10px 10px 10px 68px;
-    background-image: 'graphics/nuvola-info-48x48.png';
+    background-image: 'src/graphics/nuvola-info-48x48.png';
     background-repeat: no-repeat;
     background-color: #e3e3ff;
     background-position: 10px 10px
@@ -359,7 +359,7 @@ caption {
     margin-left: 60px;
     margin-right: 60px;
     padding: 10px 10px 10px 68px;
-    background-image: 'graphics/nuvola-alert-48x48.png';
+    background-image: 'src/graphics/nuvola-alert-48x48.png';
     background-repeat: no-repeat;
     background-color: #ffe3e3;
     background-position: 10px 10px
