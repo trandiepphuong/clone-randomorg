@@ -206,11 +206,9 @@
 
 </head>
 <script language="javascript" type="text/javascript">
+
     function phuongCustom() {
-        const urlParams = new URLSearchParams(window.location.search);
-        const myParam = urlParams.get('phuong');
-        console.log(urlParams)
-        const array = [myParam ? myParam : 15, 2000, 3].sort(() => Math.random() - 0.5)
+        const array = [15, 2000, 3].sort(() => Math.random() - 0.5)
         const date = new Date();
         const min = document.getElementById('nsupzuqwdizyjhmhuwhokxynnpjpiwhbkfvabzjawth-min').value
         const max = document.getElementById('nsupzuqwdizyjhmhuwhokxynnpjpiwhbkfvabzjawth-max').value

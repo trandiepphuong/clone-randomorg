@@ -65,7 +65,7 @@ body {
 #navigation a:visited.active,
 #navigation a:hover {
     color: #000;
-    background: #fff url(/graphics/tab_rounded.gif) no-repeat bottom center
+    background: #fff 'graphics/tab_rounded.gif' no-repeat bottom center
 }
 
 #homepage-generator {
@@ -92,7 +92,7 @@ h1 {
     position: relative;
     font-size: 1em;
     border-bottom: 1px #9393ff solid;
-    background-image: url(/graphics/rdo-logo-475x70.png);
+    background-image: 'graphics/rdo-logo-475x70.png';
     background-repeat: no-repeat;
     background-position: left top;
     z-index: 777;
@@ -346,7 +346,7 @@ caption {
     margin-left: 60px;
     margin-right: 60px;
     padding: 10px 10px 10px 68px;
-    background-image: url(/graphics/nuvola-info-48x48.png);
+    background-image: 'graphics/nuvola-info-48x48.png';
     background-repeat: no-repeat;
     background-color: #e3e3ff;
     background-position: 10px 10px
@@ -359,7 +359,7 @@ caption {
     margin-left: 60px;
     margin-right: 60px;
     padding: 10px 10px 10px 68px;
-    background-image: url(/graphics/nuvola-alert-48x48.png);
+    background-image: 'graphics/nuvola-alert-48x48.png';
     background-repeat: no-repeat;
     background-color: #ffe3e3;
     background-position: 10px 10px
